@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="add.png" />
+    <None Remove="back.jpg" />
+    <None Remove="background.jpg" />
+    <None Remove="Consulter.png" />
+    <None Remove="Consulterback.png" />
+    <None Remove="delete.png" />
+    <None Remove="home.png" />
+    <None Remove="homerect.png" />
+    <None Remove="lacite.png" />
+    <None Remove="Modify.png" />
+    <None Remove="programme.png" />
+    <None Remove="programmeback.png" />
+    <None Remove="reset.png" />
+    <None Remove="search.png" />
+    <None Remove="Stagaire.png" />
+    <None Remove="stagiare.png" />
+    <None Remove="stagiareback.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 8.2.0\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="add.png" />
+    <Resource Include="back.jpg" />
+    <Resource Include="background.jpg" />
+    <Resource Include="Consulter.png" />
+    <Resource Include="Consulterback.png" />
+    <Resource Include="delete.png" />
+    <Resource Include="home.png" />
+    <Resource Include="homerect.png" />
+    <Resource Include="lacite.png" />
+    <Resource Include="Modify.png" />
+    <Resource Include="programme.png" />
+    <Resource Include="programmeback.png" />
+    <Resource Include="reset.png" />
+    <Resource Include="search.png" />
+    <Resource Include="Stagaire.png" />
+    <Resource Include="stagiareback.png" />
+  </ItemGroup>
+
+</Project>

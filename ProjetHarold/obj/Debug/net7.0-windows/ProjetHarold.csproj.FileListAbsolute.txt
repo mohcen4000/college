@@ -1,0 +1,247 @@
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.exe
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.deps.json
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.runtimeconfig.json
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.AssemblyReference.cache
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.cache
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.lref
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.g.resources
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfoInputs.cache
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfo.cs
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.CoreCompileInputs.cache
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\refint\ProjetHarold.dll
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.genruntimeconfig.cache
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ref\ProjetHarold.dll
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.g.cs
+C:\Users\YANIS\Documents\UA2appBureau\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.baml
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.exe
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.deps.json
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.runtimeconfig.json
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.AssemblyReference.cache
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.g.cs
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.cache
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.lref
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.baml
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.g.resources
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfoInputs.cache
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfo.cs
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.CoreCompileInputs.cache
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\refint\ProjetHarold.dll
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.genruntimeconfig.cache
+C:\Users\Massuoh\Downloads\ProjetHarold (1)\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ref\ProjetHarold.dll
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.AssemblyReference.cache
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.g.cs
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.g.cs
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\App.g.cs
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.cache
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.lref
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.dll
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\refint\ProjetHarold.dll
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.pdb
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.exe
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.deps.json
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.runtimeconfig.json
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.dll
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.pdb
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.baml
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.baml
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.g.resources
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfoInputs.cache
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfo.cs
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.CoreCompileInputs.cache
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.genruntimeconfig.cache
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ref\ProjetHarold.dll
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.exe
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.deps.json
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.runtimeconfig.json
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.dll
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.pdb
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.AssemblyReference.cache
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.g.cs
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.g.cs
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\App.g.cs
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.cache
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.lref
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.baml
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.baml
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.baml
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.g.resources
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfoInputs.cache
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfo.cs
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.CoreCompileInputs.cache
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.dll
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\refint\ProjetHarold.dll
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.pdb
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.genruntimeconfig.cache
+D:\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ref\ProjetHarold.dll
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.g.cs
+D:\Important JAVASCRIPT\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.baml
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.exe
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.deps.json
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.runtimeconfig.json
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.dll
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.pdb
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.AssemblyReference.cache
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.g.cs
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.g.cs
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.g.cs
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\App.g.cs
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.cache
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.lref
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.baml
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.baml
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.baml
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.baml
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.g.resources
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfoInputs.cache
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfo.cs
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.CoreCompileInputs.cache
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.dll
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\refint\ProjetHarold.dll
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.pdb
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.genruntimeconfig.cache
+D:\ProjetHarold 3\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ref\ProjetHarold.dll
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.exe
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.deps.json
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.runtimeconfig.json
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.AssemblyReference.cache
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.g.cs
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.g.cs
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.g.cs
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.cache
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.lref
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.baml
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.baml
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.baml
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.g.resources
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfoInputs.cache
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfo.cs
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.CoreCompileInputs.cache
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\refint\ProjetHarold.dll
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.genruntimeconfig.cache
+C:\Users\YANIS\Pictures\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ref\ProjetHarold.dll
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.exe
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.deps.json
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.runtimeconfig.json
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.AssemblyReference.cache
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.g.cs
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.g.cs
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.g.cs
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.cache
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.lref
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.baml
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.baml
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.baml
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.g.resources
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfoInputs.cache
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfo.cs
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.CoreCompileInputs.cache
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\refint\ProjetHarold.dll
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.genruntimeconfig.cache
+C:\Users\Massuoh\Downloads\ProjetHarold 1\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ref\ProjetHarold.dll
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.exe
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.deps.json
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.runtimeconfig.json
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.AssemblyReference.cache
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.g.cs
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.g.cs
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.g.cs
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.cache
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.lref
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.baml
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.baml
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.baml
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.g.resources
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfoInputs.cache
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfo.cs
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.CoreCompileInputs.cache
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\refint\ProjetHarold.dll
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.genruntimeconfig.cache
+C:\Users\YANIS\Downloads\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ref\ProjetHarold.dll
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.AssemblyReference.cache
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.g.cs
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.g.cs
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.g.cs
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.cache
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.lref
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.exe
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.deps.json
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.runtimeconfig.json
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\bin\Debug\net7.0-windows\MySql.Data.xml
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.baml
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.baml
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.baml
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.g.resources
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfoInputs.cache
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.AssemblyInfo.cs
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.CoreCompileInputs.cache
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.CopyComplete
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\refint\ProjetHarold.dll
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.pdb
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.genruntimeconfig.cache
+C:\Users\14388\Desktop\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ref\ProjetHarold.dll
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.csproj.AssemblyReference.cache
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Consultation.g.cs
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Programme.g.cs
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\Stagiaire.g.cs
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.cache
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold_MarkupCompile.lref
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.dll
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\refint\ProjetHarold.dll
+C:\Users\14388\Desktop\folder trash 2\ProjetHarold\ProjetHarold\obj\Debug\net7.0-windows\ProjetHarold.pdb
